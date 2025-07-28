@@ -2,7 +2,7 @@
 
 🧠 Software Engineering student (4th year)  
 🌎 Based in Argentina  
-🔗 [Portfolio Website](https://adrielpasik.com) · [LinkedIn](https://linkedin.com/in/adriel-pasik-533a77271)
+🔗 [Portfolio Website](https://adrielpasik.github.io/Portafolio/) · [LinkedIn](https://linkedin.com/in/adriel-pasik-533a77271)
 
 ---
 
