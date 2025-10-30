@@ -18,9 +18,9 @@ I believe people who work in technology are the **architects of the future**.
 
 ### 🔭 Currently Building
 
-- Learning **Solidity** with tools like Hardhat, Foundry, and Remix  
+- Learning **Solidity** with tools like , Foundry, and Remix, chainlink and more
 - Exploring the development of **decentralized applications (DApps)** and smart contracts  
-- Improving my skills in **fullstack development** and learning **Kotlin** for mobile apps  
+- Improving my skills in **fullstack development** and **react native** for mobile apps  
 - Diving into the world of **artificial intelligence**, including **machine learning**, **neural networks**, and related topics through my university courses, which I'm very passionate about  
 
 ---
